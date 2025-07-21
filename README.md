@@ -26,15 +26,15 @@ Users should be able to:
 
 ### Screenshot
 
-![](./assets/images/Products_list_with_cart_empty.png)
-![](./assets/images/Products_list_with_cart_added_items.png)
-![](./assets/images/Order_Confirmation.png)
+![](/products-list-with-cart/assets/images/Products_list_with_cart_empty.png)
+![](/products-list-with-cart/assets/images/Products_list_with_cart_added_items.png)
+![](/products-list-with-cart/assets/images/Order_Confirmation.png)
 
 
 ### Links
 
-- Solution URL: [](https://github.com/cassiopeia001/products-list-with-cart)
-- Live Site URL: [](https://cassiopeia001.github.io/products-list-with-cart/)
+- Solution URL: [Solution URL](https://github.com/cassiopeia001/products-list-with-cart)
+- Live Site URL: [Live site URL](https://cassiopeia001.github.io/products-list-with-cart/)
 
 ## My process
 

@@ -20,7 +20,7 @@ export default function OrderConfirmed(){
                 className="fixed inset-0 bg-black/60 w-full h-full overflow-y-auto">
                 <div className="min-h-full flex flex-col justify-end md:justify-center items-center">
                     <div className="w-full bg-white rounded-t-2xl py-7 px-5 md:w-1/2 lg:w-1/3 md:rounded-2xl  overflow-y-auto">
-                    <img className="mb-5" src="/assets/images/icon-order-confirmed.svg" alt="order confirmed icon" />
+                    <img className="mb-5" src="/products-list-with-cart/assets/images/icon-order-confirmed.svg" alt="order confirmed icon" />
                     <h1 className="text-4xl font-bold mb-1">Order Confirmed</h1>
                     <p className="text-Rose-500 mb-6">We hope you enjoy your food!</p>
                     <div className="bg-Rose-50 rounded-lg p-6 mb-7">

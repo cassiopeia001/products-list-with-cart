@@ -26,9 +26,9 @@ Users should be able to:
 
 ### Screenshot
 
-![](/products-list-with-cart/assets/images/Products_list_with_cart_empty.png)
-![](/products-list-with-cart/assets/images/Products_list_with_cart_added_items.png)
-![](/products-list-with-cart/assets/images/Order_Confirmation.png)
+![Products list with empty cart](./public/assets/images/Products_list_with_cart_empty.png)
+![Added items to the cart](./public/assets/images/Products_list_with_cart_added_items.png)
+![Order confirmation](./public/assets/images/Order_Confirmation.png)
 
 
 ### Links

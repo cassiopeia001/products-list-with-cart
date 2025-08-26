@@ -46,6 +46,5 @@ Users should be able to:
 - Mobile-first workflow
 - Accessibility
 - [React](https://reactjs.org/) - JS library
-- [Next.js](https://nextjs.org/) - React framework
 - [Motion for react](https://motion.dev/docs/react) - Animation library for React 
 - [Tailwind](https://tailwindcss.com/) - CSS framework
